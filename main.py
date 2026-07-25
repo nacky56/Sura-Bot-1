@@ -5,8 +5,8 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-BOT_TOKEN = "8992624703:AAG_qoSZvlBqAVdlrkGzpcm1RLBEHYpMv-o"
-CHAT_ID = "1821139533"
+BOT_TOKEN = "8433893670:AAEuaT-8s5Ein8kfayF_nePFxhjWSqno3IM"
+CHAT_ID = "359060449"
 
 @app.route('/')
 def home():
